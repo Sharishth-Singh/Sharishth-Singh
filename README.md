@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sharishth-Singh
+- 👋 Hi, I’m Sharishth-Singh
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
